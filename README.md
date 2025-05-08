@@ -21,13 +21,13 @@ Neste trecho, o usuário realiza as seguintes ações:
 
 A interface apresenta os botões de interação:
 
-🥣 Alimentar
+⤿ Alimentar
 
-‎🎲 Brincar
+⤿ ‎Brincar
 
-‎💤 Dormir
+‎⤿ Dormir
 
-💾 Salvar
+⤿ Salvar
 
 Logo após o nascimento, o jogo começa a tocar uma música de fundo, criando uma experiência mais envolvente e divertida para o jogador.
 
@@ -36,6 +36,8 @@ Durante o desenvolvimento do projeto, utilizamos diversas ferramentas que foram 
 Logo ao iniciar o jogo, uma música começa a tocar, tornando a experiência mais imersiva e agradável. A interface é visualmente intuitiva, permitindo que o jogador interaja com facilidade com seu bichinho virtual.
 
 As principais tecnologias e ferramentas utilizadas no projeto incluem:
+### 𖹭 NetBeans IDE – Visualização, edição e compilação do código.
+
 ### 𖹭 Blackbox – Auxílio na análise e orientação do código durante o desenvolvimento.
 
 ### 𖹭 Java Swing – Criação da interface gráfica do usuário.
