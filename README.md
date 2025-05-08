@@ -51,6 +51,7 @@ As principais tecnologias e ferramentas utilizadas no projeto incluem:
 O desenvolvimento do *Tamagotchi Rat* representou uma oportunidade enriquecedora para o grupo aplicar, na prática, os conhecimentos adquiridos ao longo da disciplina de Programação Orientada a Objetos. Cada integrante contribuiu ativamente com ideias, implementação de funcionalidades, testes e melhorias na interface, o que tornou o processo altamente colaborativo e produtivo. Este projeto não apenas consolidou nosso aprendizado técnico, como também reforçou o valor da colaboração em equipe na criação de soluções criativas e funcionais.
 
 Mais do que um simples exercício acadêmico, este projeto nos permitiu explorar o ciclo completo de desenvolvimento de software — desde a concepção da ideia até a implementação final. O resultado é um jogo funcional, divertido e com grande potencial de expansão para futuras melhorias.
+![Design sem nome (2)](https://github.com/user-attachments/assets/71615fc5-7421-4cb3-a065-4fb1adfcdc2b)
 
 
 
